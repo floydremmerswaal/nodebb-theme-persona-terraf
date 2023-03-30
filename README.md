@@ -5,6 +5,8 @@ The Persona theme is the default theme for NodeBB for versions spanning v0.7.1 t
 
 For the v3.x release line, Persona will be a supported theme bundled with NodeBB, but will not be active by default.
 
+Forked by Terra F.
+
 ## Issues
 
 Issues are now tracked in [the main project issue tracker](https://github.com/NodeBB/NodeBB/issues?q=is%3Aopen+is%3Aissue+label%3Athemes).
